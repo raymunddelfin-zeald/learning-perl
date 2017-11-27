@@ -2,8 +2,10 @@
 use strict;
 use warnings;
 
-require Calc;
+#require Calc;
+use Calc;
 
-print Calc::add(11, 44), "\n";
+my $total = Calc::add(11, 44);
 
+print "\n $total";
 print "\n base:", Calc::$base;

@@ -1,4 +1,13 @@
+https://extranet.zeald.com/crm/index.php?module=Wiki&action=index&id=developers:some_looping_tips
+http://perldoc.perl.org/index-functions.html
+http://perldoc.perl.org/perllol.html
+http://perldoc.perl.org/perlrequick.html
+
 
 https://perlmaven.com/introduction-to-regexes-in-perl
 http://www.boost.org/doc/libs/1_44_0/libs/regex/doc/html/boost_regex/syntax/perl_syntax.html
 https://perlmaven.com/array-references-in-perl
+
+https://alvinalexander.com/blog/post/perl/how-compare-match-string-multiple-patterns
+https://alvinalexander.com/blog/post/perl/generate-all-html-files-in-directory
+https://docstore.mik.ua/orelly/perl/advprog/
