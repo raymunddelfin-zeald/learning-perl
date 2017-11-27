@@ -1,0 +1,4 @@
+
+https://perlmaven.com/introduction-to-regexes-in-perl
+http://www.boost.org/doc/libs/1_44_0/libs/regex/doc/html/boost_regex/syntax/perl_syntax.html
+https://perlmaven.com/array-references-in-perl
