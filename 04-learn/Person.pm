@@ -1,7 +1,8 @@
-package Person;
+#!/usr/bin/perl
 use strict;
 use warnings;
 
+package Person;
 
 sub new {
     my ($class, $first_name, $last_name) = @_;
@@ -14,12 +15,14 @@ sub new {
 
 sub name {
     my $self = shift;
-    return $self->{first_name} . ' ' . $self->{last_name};
+    return $self->{first_name} . "\t" . $self->{last_name};
 }
 
 sub describe {
     my $self = shift;
-    print "My name is ", $self->name, "\n";
+    print "~" x 40, "\n";
+    printf ("My name is %20s \n", $self->name);
+    print "~" x 40, "\n";
 }
 
 1;

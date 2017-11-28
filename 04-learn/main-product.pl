@@ -1,3 +1,4 @@
+#!/usr/bin/perl
 use strict;
 use warnings;
 
@@ -11,3 +12,8 @@ my $iphone = new Product({
 });
 
 print $iphone->to_string, "\n";
+
+$iphone->set_title("iPhone 5s");
+
+print "*" x 60, "\n";
+# print $iphone->to_string(), "\n";

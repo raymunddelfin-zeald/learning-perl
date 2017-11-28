@@ -1,7 +1,8 @@
-package Product;
+#!/usr/bin/perl
 use strict;
 use warnings;
 
+package Product;
 
 # sub new {
 #     my ($class, $serial, $title, $price) = @_;
